@@ -1,0 +1,52 @@
+/* add HTML structure
+<!DOCTYPE html>,<html>,<head>,<body>
+add an appropriate <title> for each excercise
+move the css into the seperate file
+using the <link> element  */
+
+/* css file */
+
+  .p1{
+    font-family: Arial;
+    color: orange;
+    margin-bottom: 8px;
+    text-align: center;
+  }
+
+  .p2 {
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    text-align: center;
+  }
+
+  .p3 {
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    text-align: center;
+  }
+
+  .p4 {
+    font-family: Arial;
+    margin-bottom: 8px;
+    text-align: center;
+  }
+
+  .buy-button {
+    font-family: Arial;
+    background-color: blue;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+
