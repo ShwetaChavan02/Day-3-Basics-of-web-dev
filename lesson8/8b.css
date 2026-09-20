@@ -1,0 +1,8 @@
+/* Create a paragraph and 2 buttons and place them on the same line
+(using width, display: inline-block and vertical-align: middle) */
+
+p {
+  display: inline-block;
+  width: 200px;
+  vertical-align: middle;
+}
