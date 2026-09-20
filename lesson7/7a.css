@@ -1,0 +1,8 @@
+/*load the iamge
+set the width to 200px 
+and add rounded corners*/
+
+.cat{
+  width: 200px;
+  border-radius: 10px;
+}
