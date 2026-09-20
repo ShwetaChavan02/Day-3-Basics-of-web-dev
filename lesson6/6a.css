@@ -27,6 +27,7 @@ using the <link> element  */
     font-weight: bold;
     margin-bottom: 8px;
     text-align: center;
+    /*not being aligned at the center*/
   }
 
   .p4 {
