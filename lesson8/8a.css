@@ -1,0 +1,6 @@
+/*Create 2 text boxes and put them o separate lines (using display: block)*/
+
+input {
+  display: block;
+  margin-bottom: 5px;
+}
